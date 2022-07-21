@@ -59,4 +59,4 @@ def Disconnect():
 		pass
 
 if __name__ == "__main__":
-	socketio.run(chat, host="0.0.0.0", port=5575)
+	socketio.run(chat, host="0.0.0.0" port=5000)
